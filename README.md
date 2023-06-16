@@ -42,7 +42,7 @@ Thank you.
 To contribute to the project, please follow these steps:
 
 > Fork:
-- Create a new branch: git checkout -b new branchnewfeature
-- Make your changes and commit them: git commit -am 'New feature added'
-- Push to your branch: git push origin new branchfeature
-- Open a Pull Request.
+>- Create a new branch: git checkout -b new branchnewfeature
+>- Make your changes and commit them: git commit -am 'New feature added'
+>- Push to your branch: git push origin new branchfeature
+>- Open a Pull Request.
